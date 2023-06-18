@@ -4,7 +4,7 @@
 
 # Im Going around completing online tutorials to show that I have been learning many Golang Concepts
 
-## I have many incomplete project but from here on I will start and complete them moving forwards to improve my github presence and show to show that I really do put the time in to better myself and the code I write.
+## I have many incomplete project but from here on I will start projects with the intention of completing them moving forwards! this will improve my github presence and show to show that I really do put the time in to better myself and the code I write.
 
 ### i wanted to keep the filing format the same as AnthonyGG on youtube to better follow along but i am aware that it is a bit messy
 
