@@ -2,7 +2,13 @@
 
 
 
-# It took me a second to understand what was happening in this video but I think it was very interesting.
+# Im Going around completing online tutorials to show that I have been learning many Golang Concepts
+
+## I have many incomplete project but from here on I will start and complete them moving forwards to improve my github presence and show to show that I really do put the time in to better myself and the code I write.
+
+### i wanted to keep the filing format the same as AnthonyGG on youtube to better follow along but i am aware that it is a bit messy
+
+### It took me a second to understand what was happening in this video but I think it VERY interesting.
 
 - Anthony made a service in service.go and made a interface with a method called FetchPrice and  empty struct called priceFetcher
 - when he added the method FetchPrice to the empty struct he implicitly attacked the PriceFetcher interface to the priceFetcher struct because they both express a method of FetchPrice
