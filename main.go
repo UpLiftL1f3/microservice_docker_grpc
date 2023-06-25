@@ -19,7 +19,7 @@ func main() {
 	listenAddr := flag.String("listenAddr", ":3000", "the port the service is running on")
 	flag.Parse()
 
-	svc := NewLoggingService(NewMetricsService(&priceFetcher{}))
+	svc := NewLoggingService(NewMetricsService(&priceService{}))
 
 	server := NewJSONAPIServer(*listenAddr, svc)
 
